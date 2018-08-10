@@ -10,3 +10,4 @@ print(letter, len(letter))  #!!attention
 letter[1:2] = []
 print(letter)
 
+print(letter + letter)
